@@ -1,0 +1,19 @@
+
+ul {
+	font-style: normal;
+	font-family: Palatino Linotype;
+}
+body{
+	font-style: normal;
+	font-family: Palatino Linotype;
+	text-align: center;
+}
+img{
+	width: 25%;
+	height: 25%; 
+	text-align: center;
+}
+video {
+	width: auto;
+	height: 395px;
+}
